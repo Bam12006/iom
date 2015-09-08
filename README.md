@@ -4,7 +4,6 @@ For additional information please see IoM Project Description.pdf
 
 
 September 8, 2015
-
 We want to start with a very simple IoM application. It will take an image using the demo microscope (that uManager provides) , send it the server hub application (on Microsoft Azure (C#)), and a remote user application (Javascript) can see the image. 
 
 1. ClientMicroManager (Bahareh): Java application (that uses ImageJ and uManager API) for image acquisition 
