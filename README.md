@@ -2,6 +2,12 @@ Internet of Microscopes (IoM) for Biomedical Imaging Source Code
 ------------------------------------------
 For additional information please see IoM Project Description.pdf
 
+uManager
+https://www.micro-manager.org/
+
+ImageJ
+http://imagej.nih.gov/ij/
+
 
 September 8, 2015: We want to start with a very simple IoM application. It will take an image using the demo microscope (that uManager provides) , send it the server hub application (on Microsoft Azure (C#)), and a remote user application (Javascript) can see the image. 
 
