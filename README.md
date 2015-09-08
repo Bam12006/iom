@@ -19,5 +19,6 @@ https://github.com/SignalR/java-client
 http://www.asp.net/signalr/overview/guide-to-the-api/hubs-api-guide-javascript-client
 
 6. SignalRHubCSharp (Luis): C# code for communication between #1, #2, and #3. 
+http://www.asp.net/signalr/overview/guide-to-the-api/hubs-api-guide-server
 
 Please note #4-6 will eventually be incorporated into #1-3 and I copied all the information above into REAMDE.MD files. The names shown in red are the ones working on the parts. Let me know if you want to work on parts not yet assigned to any. 
