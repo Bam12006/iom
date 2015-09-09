@@ -1,6 +1,6 @@
 Internet of Microscopes (IoM) for Biomedical Imaging Source Code
 ------------------------------------------
-For additional information please see IoM Project Description.pdf
+For additional information please see [IoM Project Description.pdf] (https://github.com/uconn-csml/iom/blob/master/IoM%20Project%20Description.pdf)
 
 uManager
 https://www.micro-manager.org/
